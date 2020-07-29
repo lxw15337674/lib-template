@@ -7596,7 +7596,7 @@
     return _c(
       "div",
       { staticClass: "app" },
-      [_c("div", [_vm._v("123")]), _vm._v(" "), _c("test")],
+      [_c("div"), _vm._v(" "), _c("test")],
       1
     )
   };
@@ -7606,7 +7606,7 @@
     /* style */
     const __vue_inject_styles__ = undefined;
     /* scoped */
-    const __vue_scope_id__ = "data-v-5481c85b";
+    const __vue_scope_id__ = "data-v-15a3d272";
     /* module identifier */
     const __vue_module_identifier__ = undefined;
     /* functional template */
