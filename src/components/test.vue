@@ -6,7 +6,7 @@
 <script>
 let uid = 0;
 export default {
-    name: 'virtual-scroller-table',
+    name: 'test',
     props: {},
     components: {},
     data() {
