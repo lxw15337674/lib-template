@@ -5,6 +5,7 @@
     "author": "",
     "public": true,
     "main": "dist/index.js",
+    "module": "/src/index.js",
     "keywords": [
         "vue",
         "tooltip"
